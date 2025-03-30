@@ -1,2 +1,2 @@
 # conflict-excersise
-punto 3 del tp git/github
+punto 3 del tp gi
